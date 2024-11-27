@@ -19,11 +19,24 @@
 
 
 ## Visualization
-3D Facade: <img width="661" alt="Screenshot 2024-01-22 at 7 13 27 PM" src="https://github.com/user-attachments/assets/8a8f1c35-8c99-49cf-baca-bdb8cc8a319d">
-2D (image) representation of the facade: ![image](https://github.com/user-attachments/assets/1eb9fe55-b63e-40a3-95be-7b70838a48ee)
-Banner to project onto the facade: ![banner](https://github.com/user-attachments/assets/1681fca5-4f68-4048-962a-aca2a90be18b)
+3D Facade: 
+
+<img width="400" alt="Screenshot 2024-01-22 at 7 13 27 PM" src="https://github.com/user-attachments/assets/8a8f1c35-8c99-49cf-baca-bdb8cc8a319d">
+
+2D (image) representation of the facade: 
+
+<img src="https://github.com/user-attachments/assets/1eb9fe55-b63e-40a3-95be-7b70838a48ee" alt="Description" width="400"/>
+
+ ![image](https://github.com/user-attachments/assets/1eb9fe55-b63e-40a3-95be-7b70838a48ee)
+Banner to project onto the facade: 
+
+![banner](https://github.com/user-attachments/assets/1681fca5-4f68-4048-962a-aca2a90be18b)
+
+
 ### Results
 Pre-cropped, and post-cropped images:
+
+
 ![pre-crop](https://github.com/user-attachments/assets/c83686b3-5a87-4cfc-8919-c4435f12b49e)
 ![result](https://github.com/user-attachments/assets/fa4d6a40-ccc3-4164-838d-0b8c5fd969d3)
 
